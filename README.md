@@ -3,6 +3,8 @@
 ## Summary
 
 After taking this course, you will
+* Be capable of using a terminal
+* Be capable of writing Bash scripts
 * Be capable of writing C code
 * Be capable of writing Python code
 * Be capable of using Git and GitHub
