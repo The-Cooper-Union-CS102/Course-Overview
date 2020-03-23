@@ -2,6 +2,9 @@
 
 ## Summary
 
+This course is designed to teach you practical programming skills.  Everything
+you learn here will be widely applicable to academic and industrial work.
+
 After taking this course, you will
 * Be capable of using a terminal
 * Be capable of writing Bash scripts
@@ -13,7 +16,7 @@ After taking this course, you will
 
 ## Lessons
 
-0. Course Overview, Introduction to Unix/Bash, Hello World
+0. Course Overview, Introduction to the Terminal and Bash
 1. GitHub, Basic Makefiles, Basic Input/Output
 2. Types, Operators, and Expressions
 3. Control Flow
