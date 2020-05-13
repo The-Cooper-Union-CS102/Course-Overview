@@ -57,3 +57,9 @@ directly.  You may ask for advice or single-line snippets but if I find that
 significant portions of your assignment have been copy pasted (trust me,
 renaming the variables does not hide it) from another student, you will receive
 a zero.
+
+There will be anti-cheating precautions in place for quizzes, though I will not
+say exactly what they are.  Copying another student's work or answers on a quiz
+will result in a 0 for that quiz.
+
+Two instances of cheating of any kind will result in an instant course failure.
