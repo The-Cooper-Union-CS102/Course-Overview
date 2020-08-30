@@ -33,6 +33,10 @@ After taking this course, you will
 14. TBD
 15. TBD
 
+## Textbooks
+
+Optional: *The C Programming Language* by Kernighan and Ritchie.
+
 ## Grading
 
 * Homework Assignments 70%
