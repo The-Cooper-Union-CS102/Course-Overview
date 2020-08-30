@@ -38,19 +38,6 @@ After taking this course, you will
 * Quizzes 10%
 * Final Project 20%
 
-The logic behind the grading is this:
-
-Quizzes will be used as a way for me to gauge the understanding of the class,
-so it is important that everyone try their best.  It is not my way of punishing
-you for not understanding.  Homework assignments are weighted very heavily
-because good coding happens when you have a long uninterrupted time period to
-focus and check references, you should focus on honing this skill.  The goal
-of the final project is to give you a chance to use coding creatively, on a
-project you are interested in.
-
-Homework assignments teach you to play chords, the final project teaches you to
-compose.
-
 ## Academic Honesty
 
 If you use code from another source (a website, a book, or another student) you
