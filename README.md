@@ -93,6 +93,8 @@ as you complete them in the allotted time.  I realize some people may not
 be able to attend class due to time zone differences.  If this is the case
 for you, please message me and we will discuss some solutions.
 
+Whatever you decide, all lectures will be recorded and freely available.
+
 ## Office Hours
 
 I will hold office hours at least twice a week:
@@ -133,12 +135,14 @@ HTML, CSS, and JavaScript.  These are the languages of the web which we will
 use to build some simple websites.  In summary:
 
 0. Unix, Shell (1 week)
-0. Git, GitHub (1 week)
-1. C (6 weeks)
-2. C++ (1 week)
-3. Python (3 weeks)
-4. SQL (1 week)
-5. HTML, CSS, JavaScript (2 weeks)
+1. Git, GitHub (1 week)
+2. C (4 weeks)
+3. C++ (1 week)
+4. Python (4 weeks)
+5. SQL (1 week)
+6. HTML, CSS, JavaScript (2 weeks)
+7. TBD (2 weeks)
+
 
 If you want to delve into these subjects in a deeper way, we offer these
 courses through the Electrical Engineering department:

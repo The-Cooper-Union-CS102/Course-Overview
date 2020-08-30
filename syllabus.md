@@ -17,19 +17,20 @@ After taking this course, you will
 ## Lessons
 
 0. Course Overview, Introduction to the Terminal and Bash
-1. GitHub, Basic Makefiles, Basic Input/Output
-2. Types, Operators, and Expressions
-3. Control Flow
-4. Functions and Program Structure
-5. Pointers and Arrays
-6. Structures
-7. Input and Output
-9. Introduction to Python
-10. Python Functions
-11. Python Classes
-12. Python Data Structures
-13. Python Algorithms
-14. Python Modules and Packages
+1. Tools: GitHub, Git, Vim
+2. C: Types, Operators, and Expressions
+3. C: Control Flow
+4. C: Pointers and Arrays
+5. C: Structures
+6. C++: Object Oriented Programming
+7. Python: Functions
+8. Python: Classes
+9. Python: Data Structures and Algorithms
+10. Python: Modules and Packages
+11. Databases and SQL
+12. HTML, CSS
+13. Javascript
+14. TBD
 15. TBD
 
 ## Grading
