@@ -9,35 +9,10 @@ working at Bloomberg LP on machine learning infrastructure and information
 extraction.  This is my first time teaching a class for credit so expect
 some things to be rough around the edges.
 
-### Questions
+## Your Introduction
 
-I will be asking all of you for a steady stream of feedback to make sure that
-my teaching is working for you.  I come from a place of a decent amount of
-experience, so it can be difficult for me to realize when something is not
-obvious, or that some students might be lacking some requisite knowledge.
-
-If you find something confusing, please call me out immediately as it is
-likely that other students feel the same.  This class is for beginners, not
-people who already have programming experience.  Therefore, no question
-you could posssibly ask is to basic for me to answer.  If you have any
-question during class just raise your hand.  If you are to shy for that,
-feel free to message me privately and I will raise the question to the class
-anonymously.
-
-If you have questions outside of contact hours send the question in the Teams
-chat for the proper subject.  You can send it in:
-
-* The **General** chat for questions about the class itself
-* The lesson specific chat for questions on the lesson or corresponding
-assignment
-* The **Basic Questions** chat for questions regarding basic computer science
-questions not covered directly in class; or
-* The **Advanced Questions** chat for questions regarding advanced computer
-science and programming questions.
-
-You can message me directly for any question as well.  The purpose of these
-chats and their distinction is solely for other students to easily filter what
-they see.
+State your name, major, prior programming experience, and what you want to get
+out of this class.
 
 ## Assignments
 
@@ -95,6 +70,15 @@ for you, please message me and we will discuss some solutions.
 
 Whatever you decide, all lectures will be recorded and freely available.
 
+If you are attending, I prefer if you keep your camera on so I can get visual
+feedback on your understanding of the material.
+
+## Conduct
+
+Please respect other students' privacy, and do not post any videos from this
+class anywhere online.  You can post memes making fun of me on MLIC, but do
+not disparage other students.
+
 ## Office Hours
 
 I will hold office hours at least twice a week:
@@ -143,6 +127,9 @@ use to build some simple websites.  In summary:
 6. HTML, CSS, JavaScript (2 weeks)
 7. TBD (2 weeks)
 
+Again this is my first time running this class, so we may not end up having
+enough time to cover all of this.  We may end up spending more time on C,
+for example, if the class as a whole needs it.
 
 If you want to delve into these subjects in a deeper way, we offer these
 courses through the Electrical Engineering department:
@@ -160,7 +147,50 @@ Electrical Engineering faculty as soon as possible and we can help you
 figure out if the classes are right for you and what requisites you may
 need.
 
-## Your Introduction
+## Strategies for Learning
 
-State your name, major, prior programming experience, and what you want to get
-out of this class.
+The same as any other skill, the best way to learn coding is to do it.  If you
+simply write code frequently with the intention of making something interesting
+or useful, you will learn to code.  Whenever you write code, you should always
+be thinking of how to make it better.  For many problems you encounter, you
+should always feel comfortable searching for the solution on the internet.
+One very valuable thing to learn is how to search for the solution, and how
+to describe the problem in a way that is can be easily searched.  We will work
+on building coding vocabulary throughout the class.
+
+## Questions
+
+I will be asking all of you for a steady stream of feedback to make sure that
+my teaching is working for you.  I come from a place of a decent amount of
+experience, so it can be difficult for me to realize when something is not
+obvious, or that some students might be lacking some requisite knowledge.
+
+If you find something confusing, please call me out immediately as it is
+likely that other students feel the same.  This class is for beginners, not
+people who already have programming experience.  Therefore, no question
+you could posssibly ask is to basic for me to answer.  If you have any
+question during class just raise your hand.  If you are to shy for that,
+feel free to message me privately and I will raise the question to the class
+anonymously.
+
+If you have questions outside of contact hours send the question in the Teams
+chat for the proper subject.  You can send it in:
+
+* The **General** chat for questions about the class itself
+* The lesson specific chat for questions on the lesson or corresponding
+assignment
+* The **Basic Questions** chat for questions regarding basic computer science
+questions not covered directly in class; or
+* The **Advanced Questions** chat for questions regarding advanced computer
+science and programming questions.
+
+You can message me directly for any question as well.  The purpose of these
+chats and their distinction is solely for other students to easily filter what
+they see.
+
+## Computers
+
+> Can anyone tell me how computers work?
+
+> Who can give an example of a program?
+
