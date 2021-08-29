@@ -7,7 +7,7 @@ you learn here will be widely applicable to academic and industrial work.
 
 After taking this course, you will
 * Be capable of using a terminal
-* Be capable of writing Bash scripts
+* Be capable of using Bash and writing scripts
 * Be capable of writing C code
 * Be capable of writing Python code
 * Be capable of using Git and GitHub
@@ -28,10 +28,7 @@ After taking this course, you will
 9. Python: Data Structures and Algorithms
 10. Python: Modules and Packages
 11. Databases and SQL
-12. HTML, CSS
-13. Javascript
-14. TBD
-15. TBD
+12. HTML, CSS, JavaScript
 
 ## Textbooks
 
@@ -39,9 +36,8 @@ Optional: *The C Programming Language* by Kernighan and Ritchie.
 
 ## Grading
 
-* Homework Assignments 70%
+* Homework Assignments 90%
 * Quizzes 10%
-* Final Project 20%
 
 ## Academic Honesty
 
@@ -49,6 +45,5 @@ If you use code from another source (a website, a book, or another student) you
 must cite it with a comment.  If you do not cite it, you will receive zero
 credit for that assignment.  You should never copy another student's code
 directly.  You may ask for advice or single-line snippets but if I find that
-significant portions of your assignment have been copy pasted (trust me,
-renaming the variables does not hide it) from another student, you will receive
-a zero.
+significant portions of your assignment have been copied from another student,
+you will receive a zero, and I will be obligated to report it.
