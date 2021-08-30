@@ -3,10 +3,41 @@
 ## My Introduction
 
 My name is Cory Nezin, you can call me Cory, Mr. Nezin, or Professor Nezin,
-whatever you are comfortable with.  I graduated from The Cooper Union in 2018
-with a bachelors and masters degree in electrical engineering.  Since then,
-I've been working at Bloomberg on machine learning for information extraction.
-This is my second time teaching this class.
+whatever you are comfortable with. This is my second time teaching this class.
+
+I graduated from The Cooper Union in 2018 with a bachelors and masters degree
+in electrical engineering.  Since then, I've been working at Bloomberg on
+machine learning for information extraction.  I am also the chairman of the
+technical advisory council at a non-profit called The City Tutors.
+
+## Class Introduction
+
+You probably don't need an explanation of computing, since it is now
+everywhere.  In short though, computing is just the carrying out of specific
+instructions.  This is embedded in a huge range of applications including:
+
+* building a web application
+* simulating physical structures
+* controlling a nuclear reactor
+* automatically controlling drones
+* beating humans at chess, go, or league
+* precisely landing rockets
+* determining protein foldings
+
+You probably won't be able to do those things right after finishing this class,
+but you will have the basic foundations to start to understand how they could
+be done.
+
+The class will focus very much on practical skills that go into programming.
+We will go through several languages, each with a different purpose, and we
+will practice them by writing interesting programs.  We will learn some tools
+standard to programmers, like Bash and Git, and a little bit of theory on
+time complexity analysis.
+
+After this class, you will be able to write your own programs, and learn
+more languages and tools on your own.  You will understand the elementary
+components that comprise most programs.  You will have a greater perspective
+on how the digital world around you works as whole.
 
 ## Assignments
 
