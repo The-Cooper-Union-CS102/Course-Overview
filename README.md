@@ -32,6 +32,8 @@ outputs.  Style is slightly more subjective.  Mainly it means your code
 is easily readable and well organized.  We will discuss specific expectations
 later.
 
+If your program does not run at all, the grade is 0 no matter what.
+
 ## Quizzes
 
 Quizzes will be used as a way for me to gauge the understanding of the class,
